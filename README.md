@@ -1,4 +1,4 @@
-# TP1 - Linear & Polynomial Regression
+# Lab1 - Linear & Polynomial Regression
 
 This notebook explores basic concepts of regression in Machine Learning, particularly Linear Regression and Polynomial Regression. The project involves data generation, model fitting, and visualization using Python libraries such as NumPy and Matplotlib.
 
