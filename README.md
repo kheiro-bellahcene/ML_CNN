@@ -4,6 +4,10 @@ This notebook explores basic concepts of regression in Machine Learning, particu
 
 > ⚠️ This is just a **practice lab** for experimenting with GitHub. More advanced and polished projects (CNN, LLM, etc.) are coming soon!
 
+## Full repot: 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kheiro-bellahcene/from-regression-to-llms/blob/main/ml_lab1_linear_polynomial_regression.ipynb)
+
+
 ## 📌 Objectives
 
 - Understand and implement **Linear Regression** using the normal equation.
