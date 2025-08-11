@@ -2,7 +2,7 @@
 
 This notebook explores basic concepts of regression in Machine Learning, particularly Linear Regression and Polynomial Regression. The project involves data generation, model fitting, and visualization using Python libraries such as NumPy and Matplotlib.
 
-> ⚠️ This is just a **practice lab** for experimenting with GitHub. More advanced and polished projects (CNN, LLM, etc.) are coming soon!
+> ⚠️ This is just a **practice lab** for experimenting with GitHub.
 
 ## Full repot: 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kheiro-bellahcene/from-regression-to-llms/blob/main/ml_lab1_linear_polynomial_regression.ipynb)
@@ -71,10 +71,5 @@ This notebook explores basic concepts of regression in Machine Learning, particu
 
 **Kheir Eddine Bellahcene**
 
----
-
-## 🚀 Note
-
-This repo is just a warm-up. Stay tuned — better and cooler projects are on the way!
 
 
